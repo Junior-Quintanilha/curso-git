@@ -1,3 +1,1 @@
-Testando
-Nova linha
-outra linha
+Iniciando curso de Git e GitHub
